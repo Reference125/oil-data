@@ -1,5 +1,7 @@
 # Oil-data
 [link to spreadsheet](https://docs.google.com/spreadsheets/d/1HsxwfeZA4Dh_K_0slyt0xda-1rKfyTE3jxomgv39tUw/edit?usp=sharing)
+![alt text](sheet1.png)
+![alt text](sheet2.png)
 
 ## Setup env
 ```sh
